@@ -1,1 +1,36 @@
-/* JHU Coursear Web Dev Course - Modlue 3 */
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+h1 {
+
+}
+
+h2 {
+	position: relative;
+	text-align: center;
+}
+
+p {
+  position: relative;
+  color: #666666;
+  text-align: center;
+}
+
+div .container {
+	background-color: #eeeeee;
+	margin-bottom: 25px;
+	height: 1000px;
+}
+
+/*Navbar styling*/
+
+header {
+	margin-bottom: 50px;
+}
+
+nav li {
+	text-align: center;
+}
